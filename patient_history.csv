@@ -1,0 +1,10 @@
+Patient Name,Age,Sex,Disease Page,Prediction Result,Date & Time
+Jane Doe,45,Female,Heart Disease,✅ No Disease Detected,2026-06-01 14:34:22
+Jane Doe,45,Male,Heart Disease,✅ No Disease Detected,2026-06-01 14:51:51
+Jane Doe,45,Male,Heart Disease,✅ No Disease Detected,2026-06-01 14:51:52
+Jane Doe,45,Female,Heart Disease,✅ No Disease Detected,2026-06-01 14:59:07
+Maryam,50,Female,Diabetes,⚠️ Disease Detected,2026-06-01 15:12:32
+Noor,31,Female,Diabetes,✅ No Disease Detected,2026-06-01 15:14:52
+Jane Doe,45,Female,Heart Disease,✅ No Disease Detected,2026-06-16 09:05:46
+Jane Doe,45,Female,Heart Disease,✅ No Disease Detected,2026-06-16 10:14:47
+Jane Doe,45,Female,Heart Disease,✅ No Disease Detected,2026-06-16 11:05:05
